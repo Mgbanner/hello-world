@@ -1,9 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
+int main 
 {
-	cout << "Hello world!" << endl;
-	cout << "Program modified, but able to revert to original version using GitHub Desktop" << endl;
-	return 0;
+	cout <<Hello world! << endl;
 }
